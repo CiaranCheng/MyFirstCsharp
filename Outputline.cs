@@ -8,6 +8,8 @@ namespace MyFirstCsharp
     {
         public void PrintTime() {
             Console.WriteLine("It is "+ DateTime.Now.ToString() + " now");
+            // 输出时间
         }
+
     }
 }
